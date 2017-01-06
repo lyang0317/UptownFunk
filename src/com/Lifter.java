@@ -3,8 +3,6 @@ package com;
 import java.io.Serializable;
 import java.util.Iterator;
 import java.util.LinkedList;
-import java.util.List;
-import java.util.concurrent.LinkedBlockingQueue;
 
 public class Lifter implements Serializable {
 
