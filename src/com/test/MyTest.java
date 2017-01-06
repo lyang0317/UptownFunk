@@ -20,7 +20,7 @@ public class MyTest {
 			list.remove((Integer)i);
 			System.out.println(set+ " 2 " + list);
 		}
-		System.out.println("==============");
+		System.out.println("============");
 		System.out.println(set+ "  " + list);
 	}
 }
